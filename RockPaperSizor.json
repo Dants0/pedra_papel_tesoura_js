@@ -1,0 +1,32 @@
+[
+  {
+    "id": "8a82aa97-5a97-4c97-9539-40300a5583e9",
+    "bot1Play": "Tesoura",
+    "bot2Play": "Pedra",
+    "winner": "C3-P0 venceu"
+  },
+  {
+    "id": "2b67ed8f-6a6a-4d99-9e0c-70d5ff3e2486",
+    "bot1Play": "Pedra",
+    "bot2Play": "Papel",
+    "winner": "C3-P0 venceu"
+  },
+  {
+    "id": "d6132079-0605-4196-b7c4-a606c0541e71",
+    "bot1Play": "Tesoura",
+    "bot2Play": "Pedra",
+    "winner": "C3-P0 venceu"
+  },
+  {
+    "id": "2ea4ba1b-5a60-4e0c-80fc-ffb3fec14a51",
+    "bot1Play": "Pedra",
+    "bot2Play": "Tesoura",
+    "winner": "Alis venceu"
+  },
+  {
+    "id": "fe659c7e-7ca9-4b1a-9a03-af2251200cf1",
+    "bot1Play": "Papel",
+    "bot2Play": "Pedra",
+    "winner": "C3-P0 venceu"
+  }
+]
